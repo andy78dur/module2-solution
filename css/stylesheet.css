@@ -107,7 +107,7 @@ header h2 {
 
 #box1 {
   background-color: gray;
-  width: 330px;
+  width: 410px;
   height: 250px;
   margin: 15px;
   border: 3px solid black;
@@ -115,7 +115,7 @@ header h2 {
 }
 #box2 {
   background-color: gray;
-  width: 330px;
+  width: 410px;
   height: 250px;
   margin: 15px;
   border: 3px solid black;
@@ -124,7 +124,7 @@ header h2 {
 
 #box3 {
   background-color: gray;
-  width: 330px;
+  width: 410px;
   height: 250px;
   margin: 15px;
   border: 3px solid black;
@@ -151,19 +151,19 @@ header h2 {
   background-color: #A52A2A;
   position: relative;
   top: -17px;
-  right: -225px;
+  right: -305px;
 }
 #boxtitle2 {
   background-color: #DEB887;
   position: relative;
   top: -17px;
-  right: -225px;
+  right: -305px;
 }
 #boxtitle3 {
   background-color: #5F9EA0;
   position: relative;
   top: -17px;
-  right: -225px; 
+  right: -305px; 
 }
 
 
